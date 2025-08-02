@@ -1,0 +1,5 @@
+Flask
+tensorflow>=2.15
+numpy<2
+Pillow
+gunicorn
